@@ -1,0 +1,9 @@
+Pengeluaran Perbulan
+bulan 1 4254561
+bulan 2 0
+bulan 3 4253552
+bulan 4 0
+bulan 5 68
+===================================
+Total Pengeluaran : 6600358
+Total Pengeluaran : -6599840
